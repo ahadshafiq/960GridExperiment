@@ -4,4 +4,4 @@ This is an experiment with the 960 grid system in order to:
 3). Make a sample layout for another project (making a portfolio for a specific job application - see repo Tantalus-Application.
 
 This is a screenshot of what the finished grid looks like:
-![ScreenShot](https://github.com/ahadshafiq/960GridExperiment/blob/master/public/screenshot.png)
+![ScreenShot](https://raw.github.com/ahadshafiq/960GridExperiment/blob/master/public/screenshot.png)
