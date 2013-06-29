@@ -11,3 +11,63 @@
  *= require_self
  *= require_tree .
  */
+/*body{
+	background: url('bg-texture.png') repeat-x fixed center left; 
+ }*/
+#container{
+	margin-top: 0.5%;
+	background: #4E5862;
+	overflow: hidden;
+}
+h2{
+	font-size: 4%;
+	text-align: center;
+}
+#secondary1, #secondary2{
+	background: blue;
+}
+#vcard{
+	background: green;
+	margin: 0%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+#showcase, #showcase2, #showcase3{
+	background: green;
+	margin-left: 2%;
+	margin-top: 1%;
+}
+#header, #footer{
+	background: red;
+	text-align: center;
+	overflow: hidden;
+}
+#avatar, #nameProfession, #icon, #icon1, #icon2, #icon3, #icon4{
+	background: gray;
+}
+#avatar{/*avatar push*/
+	margin-left: 4%;
+	text-align: center;
+}
+#nameProfession{
+	text-align: center;
+}
+#icon, #icon1, #icon2, #icon3, #icon4{
+	margin-top: 4%;
+	text-align: center;
+	margin-bottom: 4%;
+}
+#icon1{/*github push*/
+	margin-left: 6.5%;
+}
+#icon2{/*map k.s.a push*/
+	margin-left: 4%;
+}
+#icon3{/*map k.s.a push*/
+	margin-left: 4%;
+}
+#icon4{/*avatar push*/
+	margin-left: 4%;
+}
+
+
